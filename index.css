@@ -1,0 +1,44 @@
+* {
+	font-family: Roboto Mono;
+	font-size: 50px;
+}
+
+header .titles {
+	display: inline-block;
+	margin: 20px auto;
+	text-align: center;
+	display: flex;
+	box-sizing: auto;
+}
+header .titles .top1 {
+	color: white;
+	background-color: white;
+	border: 1px solid lightgray;
+	padding: 20px 50px;
+	border-radius: 10px;
+	background: #ff764e;
+	margin: auto 500px;
+	width: auto;
+}
+
+header .titles .top2 {
+	color: white;
+	background-color: white;
+	border: 1px solid lightgray;
+	padding: 20px 50px 20px 50px;
+	border-radius: 10px;
+	background: #5ed3eb;
+	margin: auto 500px;
+	height: auto;
+	width: 250 rem;
+}
+
+header .titles .top3 {
+	color: white;
+	background-color: white;
+	border: 1px solid lightgray;
+	padding: 50px 50px;
+	border-radius: 10px;
+	background: #ffcd69;
+	margin: auto 500px;
+}
